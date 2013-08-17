@@ -73,7 +73,7 @@ $ ls -al ~
 Окно терминала с запущенным `bash` выглядит примерно так:  
 ![Screenshot]({{ site.url }}/images/terminal.png)  
 или так  
-![Screenshot]({{ site.url }}/images/bash_screenshot.png)
+![Screenshot]({{ site.url }}/images/bash_screenshot.png)  
 
 Обычно приглашение ввода команд имеет примерно такой вид:  
 `hostname:~ username$ `.  
