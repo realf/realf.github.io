@@ -71,10 +71,11 @@ $ ls -al ~
 {% endhighlight %}
 
 Окно терминала с запущенным `bash` выглядит примерно так:  
-![Screenshot]({{ site.url }}/images/terminal.png)
-На скриншоте виден результат выполнения команды `ls`.
+![Screenshot]({{ site.url }}/images/terminal.png)  
+или так  
+![Screenshot]({{ site.url }}/images/bash_screenshot.png)
 
-Обычно приглашение ввода команд имеет вид:  
+Обычно приглашение ввода команд имеет примерно такой вид:  
 `hostname:~ username$ `.  
 Здесь:  
 `hostname` -- имя компьютера;  
@@ -84,12 +85,17 @@ $ ls -al ~
 Знаком `$` обозначено приглашение для ввода команд в окне терминала. Если команда должна быть запущена с привилегиями root (администратора), вместо `$` используют знак `#` и приглашение выглядит примерно так:  
 `hostname:/ root# `.
 
-В завершение обзора привожу некоторые около-линуксовые ссылки:  
-Журнал [LinuxFormat](http://wiki.linuxformat.ru/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0) по-русски  
+В завершение обзора привожу полезные ссылки:
 
-[bash](http://ru.wikipedia.org/wiki/Bash)  
-[Искусство программирования на языке сценариев командной оболочки](http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html)    
-[Настольная книга по Linux](http://ru.wikibooks.org/wiki/Linux-hand-book)  
+- Журнал [LinuxFormat](http://wiki.linuxformat.ru/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0) по-русски. Много интересных статей. Советую.
+
+- С [bash](http://ru.wikipedia.org/wiki/Bash) можно знакомиться постепенно.
+
+- В статье [Искусство программирования на языке сценариев командной оболочки](http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html) приводится много полезных примеров использования сценариев.
+
+- Рецепты по решению разнобразных задач можно найти в [Настольной книге по Linux](http://ru.wikibooks.org/wiki/Linux-hand-book).
+
+Список ссылок постараюсь пополнять.  
 
 [unix-like]: http://ru.wikipedia.org/wiki/UNIX-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0
 [terminal]: http://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80_%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D0%B0
